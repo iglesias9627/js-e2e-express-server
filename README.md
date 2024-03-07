@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/iglesias96/tutorial_javascript/_apis/build/status%2Figlesias9627.js-e2e-express-server?branchName=main)](https://dev.azure.com/iglesias96/tutorial_javascript/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
